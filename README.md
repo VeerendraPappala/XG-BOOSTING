@@ -1,4 +1,6 @@
 This repository contains information about the xgboosting and the model bulit from the dataset(purchase)  taken from Kaggle Compitition.
+ 
+ #### As the dataset is in larger file size to upload, following link  will directs to download it from drive.   https://drive.google.com/file/d/1Afh3BQ6i0jYvEqPOGXGdeekX675jfS6L/view?ts=5c0b5e0c 
 
 # XG-BOOSTING
 
